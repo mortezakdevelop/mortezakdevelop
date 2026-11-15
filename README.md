@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Android Developer** with 4+ years of experience in mobile software development, specializing in building modern Android applications and developing Android framework components.
+I'm an **Android Developer** with 6+ years of experience in mobile software development, specializing in building modern Android applications and developing Android framework components.
 
 I enjoy solving complex problems, writing clean and maintainable code, and exploring new technologies in the Android ecosystem.
 
